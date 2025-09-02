@@ -1,0 +1,16 @@
+{
+  "name": "webstaurant-capture",
+  "version": "1.0.0",
+  "description": "WebstaurantStore endpoint, token, and cookie capture using Puppeteer",
+  "main": "puppeteer_capture.js",
+  "scripts": {
+    "start": "node puppeteer_capture.js",
+    "capture": "node puppeteer_capture.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.6.1"
+  },
+  "keywords": ["webstaurantstore", "puppeteer", "capture", "automation"],
+  "author": "",
+  "license": "MIT"
+}
