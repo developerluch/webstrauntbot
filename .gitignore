@@ -4,8 +4,8 @@
 *.dll
 *.so
 *.dylib
-webstaurant-checkout
-webstaurant-checkout-test
+webstaurant-checkout/webstaurant-checkout
+webstaurant-checkout/webstaurant-checkout-test
 
 # Test binary, built with `go test -c`
 *.test
